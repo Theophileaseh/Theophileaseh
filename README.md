@@ -11,7 +11,8 @@ I like cintributing to open source codes as there are a great asset for others t
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theophileaseh&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theophileaseh&show_icons=true&theme=outrun&layout=compact" alt="Theophile Aseh" width="410"/>|
 </p>
-
+<img src="code.gif" alt="Nwachan Theophile"
+     
 ## Technologies & Tools
 
 <p align="left">
@@ -30,10 +31,9 @@ I like cintributing to open source codes as there are a great asset for others t
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/wuletaww" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wuletaw-wonte/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/wuletawbeza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCv7IvhJvMwQ8JzqNsHCEOvA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/NwachanT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/theophileaseh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!--
