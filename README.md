@@ -2,6 +2,7 @@
 
 <h2> I am, Nwachan Theophile</h2>
 <h3>Full stack Software Engineer</h3>
+<h3>Currently available for hire</h3>
 
 I am a highly skilled, motivated and talented full stack web developer with passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
 
