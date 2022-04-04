@@ -4,26 +4,26 @@
 <h3>Full stack Software Engineer</h3>
 <h3>Currently available for hire</h3>
 
-I am a highly skilled, motivated and talented full stack web developer with passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
+I am a highly skilled, motivated and talented Full Stack web developer with a passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
 
 I like cintributing to open source codes as there are a great asset for others to learn.
 
 ## Links To Some Of My Projects
 
 ![](/img/2.png/)
-[Click to see Website](https://hitlbamenda.cm/)
+[Click to see the Website](https://hitlbamenda.cm/)
 
-[Click to see Website](https://bois237.com/)
+[Click to see the Website](https://bois237.com/)
 
 ![](/img/3.png/)
-[Click to see Website](https://fleventsnadtours.com/)
+[Click to see the Website](https://fleventsnadtours.com/)
 
 ![](/img/4.png/)
-[Click to see Website](https://tcdesign.fashion/)
+[Click to see the Website](https://tcdesign.fashion/)
 
 ![](/img/5.png/)
-[Click to see Website](https://jaems.art/)
-[Click to see Website](https://christinductionglorychurch.com/)
+[Click to see the Website](https://jaems.art/)
+[Click to see the Website](https://christinductionglorychurch.com/)
 
 
 <p align="center">&nbsp;
