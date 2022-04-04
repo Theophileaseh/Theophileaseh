@@ -3,6 +3,7 @@
 <h2> I am, Nwachan Theophile</h2>
 <h3>Full-stack Software Engineer</h3>
 <h3>I am currently available for hire</h3>
+<p>Email: <a href="mailto:theophilenwachan@gmail.com">theophilenwachan@gmail.com</a></p>
 
 I am a highly skilled, motivated and talented Full-stack web developer with a passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
 
