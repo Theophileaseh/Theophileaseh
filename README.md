@@ -1,10 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2> I am, Nwachan Theophile</h2>
-<h3>Full stack Software Engineer</h3>
+<h3>Full-stack Software Engineer</h3>
 <h3>Currently available for hire</h3>
 
-I am a highly skilled, motivated and talented Full Stack web developer with a passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
+I am a highly skilled, motivated and talented Full-stack web developer with a passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
 
 I like cintributing to open source codes as there are a great asset for others to learn.
 
