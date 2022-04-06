@@ -35,11 +35,11 @@ I like contributing to open source codes as there is a great asset for others to
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theophileaseh&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theophileaseh&show_icons=true&theme=outrun&layout=compact" alt="Theophile Aseh" width="410"/>|
 </p>
-<img src="code.gif" alt="Nwachan Theophile"
+<img src="code.gif" alt="Nwachan Theophile">
 
-      
-<h2>## Technologies & Tools</h2>
-<p align="left">
+
+## Technologies & Tools
+<p align="left" style="background: #0E050F;">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html5.png" alt="html5" width="50" height="50"></a>    
     <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="50" height="50"> </a>    
     <a href="https://getbootstrap.com/" target="_blank"> <img src="img/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>    
