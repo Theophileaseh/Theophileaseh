@@ -40,23 +40,23 @@ I like contributing to open source codes as there are a great asset for others t
 ## Technologies & Tools
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html5.png" alt="html5"></a>    
-    <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3"> </a>    
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="img/bootstrap.png" alt="Bootstrap" width="60" height="40"/> </a>    
-    <a href="https://wordpress.com/" target="_blank"> <img src="img/wordpress.png)" alt="Wordpress" width="60" height="40"/> </a>    
-    <a href="https://php.net" target="_blank"> <img src="img/php.png" alt="PHP" width="60" height="40"/> </a>    
-    <a href="https://mysql.com" target="_blank"> <img src="img/mysql.png" alt="MySQL" width="60" height="40"/> </a>    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/js.png" alt="Javascript" width="60" height="40"/> </a>    
-    <a href="https://webpack.js.org/" target="_blank"> <img src="img/webpack.png" alt="Webpack" width="60" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="img/git.png" alt="git" width="60" height="40"/> </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="img/postsql.png" alt="SQL" width="60" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html5.png" alt="html5" width="50" height="50"></a>    
+    <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="50" height="0"> </a>    
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="img/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>    
+    <a href="https://wordpress.com/" target="_blank"> <img src="img/wordpress.png)" alt="Wordpress" width="50" height="50"/> </a>    
+    <a href="https://php.net" target="_blank"> <img src="img/php.png" alt="PHP" width="50" height="50"/> </a>    
+    <a href="https://mysql.com" target="_blank"> <img src="img/mysql.png" alt="MySQL" width="50" height="50"/> </a>    
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/js.png" alt="Javascript" width="50" height="50"/> </a>    
+    <a href="https://webpack.js.org/" target="_blank"> <img src="img/webpack.png" alt="Webpack" width="50" height="50"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="img/git.png" alt="git" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="img/postsql.png" alt="SQL" width="50" height="50"/> </a>
     </p>
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/NwachanT" target="blank"><img align="center" src="img/twitter.png" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/theophileaseh/" target="blank"><img align="center" src="img/facebook.png" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/NwachanT" target="blank"><img align="center" src="img/twitter.png" alt="" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a>
+<a href="https://www.facebook.com/theophileaseh/" target="blank"><img align="center" src="img/facebook.png" alt="" height="50" width="50" /></a>
 </p>
 
 <!--
