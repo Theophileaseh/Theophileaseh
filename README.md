@@ -63,9 +63,9 @@ I like contributing to open source codes as there are a great asset for others t
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/NwachanT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/theophileaseh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/NwachanT" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/51954313/161997995-9a86c9b5-a681-4a7d-a649-99d9466608d1.png)" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/51954313/161998281-f58322bd-77f5-4754-a343-45d6ba098ad1.png)" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/theophileaseh/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/51954313/161998411-1d91dda1-a809-430a-a706-c4835b52b2d4.png)" alt="" height="30" width="40" /></a>
 </p>
 
 <!--
