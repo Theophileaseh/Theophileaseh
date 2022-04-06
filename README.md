@@ -22,9 +22,11 @@ I like contributing to open source codes as there are a great asset for others t
 ![](/img/4.png/)
 [Click to see the Website](https://tcdesign.fashion/)
 
+<!--
 ![](/img/5.png/)
 [Click to see the Website](https://jaems.art/)
 [Click to see the Website](https://christinductionglorychurch.com/)
+-->
 
 
 <p align="center">&nbsp;
