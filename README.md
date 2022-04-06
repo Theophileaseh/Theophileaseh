@@ -40,7 +40,7 @@ I like contributing to open source codes as there are a great asset for others t
 ## Technologies & Tools
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"       alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/51954313/161997329-fdcf2468-6890-479f-8151-b7fe1a2ca51c.png)" alt="html5" width="40" height="40"/> </a>
     
     <a href="https://www.w3.org/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/51954313/161993181-e761c634-3495-4539-8a89-82681a14354a.png)" alt="CSS3" width="40" height="40"/> </a>
     
