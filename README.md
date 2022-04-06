@@ -48,7 +48,7 @@ I like contributing to open source codes as there are a great asset for others t
     
     <a href="https://wordpress.com/" target="_blank"> <img src="![image](/img/wordpress.png)" alt="Wordpress" width="40" height="40"/> </a>
     
-    <a href="https://php.net" target="_blank"> <img src="![image](/img/php.png)" alt="PHP" width="40" height="40"/> </a>
+    <a href="https://php.net" target="_blank"> <img src="!![image](/img/php.png)" alt="PHP" width="40" height="40"/> </a>
     
     <a href="https://mysql.com" target="_blank"> <img src="![image](/img/mysql.png)" alt="MySQL" width="40" height="40"/> </a>
     
