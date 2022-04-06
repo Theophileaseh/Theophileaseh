@@ -40,7 +40,7 @@ I like contributing to open source codes as there are a great asset for others t
 ## Technologies & Tools
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html.webp" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html.webp" alt="html5" width="40" height="40"/> </a>![](/img/html.webp/)
     
     <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="40" height="40"/> </a>
     
