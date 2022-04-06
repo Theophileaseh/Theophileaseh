@@ -39,7 +39,7 @@ I like contributing to open source codes as there is a great asset for others to
 
 
 ## Technologies & Tools
-<p align="left" style="background: #0E050F;">
+<p style="background: #0e050f; align: left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html5.png" alt="html5" width="50" height="50"></a>    
     <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="50" height="50"> </a>    
     <a href="https://getbootstrap.com/" target="_blank"> <img src="img/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>    
