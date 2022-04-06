@@ -5,9 +5,9 @@
 <h3>I am currently available for hire</h3>
 <p>Email: <a href="mailto:theophilenwachan@gmail.com">theophilenwachan@gmail.com</a></p>
 
-I am a highly skilled, motivated and talented Full-stack web developer with a passion for developing outstanding softwares for great user experience and high customer satisfaction. I take much care in the things I develop because customer is key.
+I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
 
-I like contributing to open source codes as there are a great asset for others to learn.
+I like contributing to open source codes as there is a great asset for others to learn.
 
 ## Links To Some Of My Projects
 
@@ -41,7 +41,7 @@ I like contributing to open source codes as there are a great asset for others t
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html5.png" alt="html5" width="50" height="50"></a>    
-    <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="50" height="0"> </a>    
+    <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="50" height="50"> </a>    
     <a href="https://getbootstrap.com/" target="_blank"> <img src="img/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>    
     <a href="https://wordpress.com/" target="_blank"> <img src="img/wordpress.png)" alt="Wordpress" width="50" height="50"/> </a>    
     <a href="https://php.net" target="_blank"> <img src="img/php.png" alt="PHP" width="50" height="50"/> </a>    
