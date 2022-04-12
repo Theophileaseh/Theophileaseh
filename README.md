@@ -16,9 +16,6 @@ I like contributing to open source codes as there is a great asset for others to
 
 [Click to see the Website](https://bois237.com/)
 
-![](/img/3.png/)
-[Click to see the Website](https://fleventsnadtours.com/)
-
 ![](/img/4.png/)
 [Click to see the Website](https://tcdesign.fashion/)
 
