@@ -4,6 +4,7 @@
 <h3>Full-stack Software Engineer</h3>
 <h3>I am currently available for hire</h3>
 <p>Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
+<p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
 
 I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
 
