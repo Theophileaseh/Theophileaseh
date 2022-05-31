@@ -1,0 +1,7 @@
+.main1 { display:flex; }
+
+.main, .main2 { width: 50%; }
+
+@media screen and (max-width: 768px) {
+  .main, .main2 { width: 100%; }
+}
