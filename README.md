@@ -1,5 +1,5 @@
-<div>
- <div>
+<div class="main">
+ <div class="main1">
  ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2> I am, Nwachan Theophile</h2>
@@ -8,10 +8,20 @@
 <p>Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </div>
- <div>
+ <div class="main2">
   <img src="code.gif" alt="Nwachan Theophile">
  </div>
 </div>
+
+<style>
+ .main1 {
+   display:flex;
+ }
+ 
+ .main, .main2 {
+   width: 50%;
+ }
+</style>
 
 
 I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
