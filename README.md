@@ -1,10 +1,18 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div>
+ <div>
+ ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2> I am, Nwachan Theophile</h2>
 <h3>Full-stack Software Engineer</h3>
 <h3>I am currently available for hire</h3>
 <p>Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
+ </div>
+ <div>
+  <img src="code.gif" alt="Nwachan Theophile">
+ </div>
+</div>
+
 
 I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
 
@@ -33,7 +41,6 @@ I like contributing to open source codes as there is a great asset for others to
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theophileaseh&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theophileaseh&show_icons=true&theme=outrun&layout=compact" alt="Theophile Aseh" width="410"/>|
 </p>
-<img src="code.gif" alt="Nwachan Theophile">
 
 
 ## Technologies & Tools
