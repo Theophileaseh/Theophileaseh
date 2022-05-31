@@ -42,9 +42,11 @@ I like contributing to open source codes as there is a great asset for others to
     <a href="https://www.w3.org/" target="_blank"> <img src="img/css.png" alt="CSS3" width="50" height="50"> </a>    
     <a href="https://www.adobe.com/products/photoshop.html/" target="_blank"> <img src="img/photoshop.png" alt="Adobe Photoshop" width="50" height="50"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="img/bootstrap.png" alt="Bootstrap" width="50" height="50"/> </a>
-    <a href="https://wordpress.com/" target="_blank"> <img src="img/wordpress.png" alt="Wordpress" width="50" height="50"/> </a>    
+    <a href="https://wordpress.com/" target="_blank"> <img src="img/wordpress.png" alt="Wordpress" width="50" height="50"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="img/react.png" alt="React" width="50" height="50"/> </a>
     <a href="https://php.net" target="_blank"> <img src="img/php.png" alt="PHP" width="50" height="50"/> </a>    
-    <a href="https://mysql.com" target="_blank"> <img src="img/mysql.png" alt="MySQL" width="50" height="50"/> </a>    
+    <a href="https://mysql.com" target="_blank"> <img src="img/mysql.png" alt="MySQL" width="50" height="50"/> </a> 
+    <a href="https://redux.js.org/" target="_blank"> <img src="img/redux.png" alt="Redux" width="50" height="50"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/js.png" alt="Javascript" width="50" height="50"/> </a>    
     <a href="https://webpack.js.org/" target="_blank"> <img src="img/webpack.png" alt="Webpack" width="50" height="50"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="img/git.png" alt="git" width="50" height="50"/> </a>
