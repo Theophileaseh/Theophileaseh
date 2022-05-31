@@ -13,7 +13,6 @@
  </div>
 </div>
 
-<style>
  .main1 {
    display:flex;
  }
@@ -21,7 +20,6 @@
  .main, .main2 {
    width: 50%;
  }
-</style>
 
 
 I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
