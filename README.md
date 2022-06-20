@@ -1,4 +1,4 @@
-<div class="main">
+<div class="main" display="flex">
 
  <div class="main1" align="left" width="400>
  ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
@@ -10,8 +10,8 @@
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </div>
   
-<div  align="right">
-  <img src="code.gif" alt="Nwachan Theophile">
+<div  align="right" width="400">
+  <img src="code.gif" alt="Nwachan Theophile" width="400">
 </div>
                          
 
