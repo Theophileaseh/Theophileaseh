@@ -5,15 +5,17 @@
 
  <p class="main1" align="left" width="50">
 
-<h3 align="left" width="50">Full-stack Software Engineer</h3>
-<h3 align="left" width="50">I am currently available for hire</h3>
-<p align="left" width="50">Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
-<p align="left" width="50">My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
+<h3>Full-stack Software Engineer</h3>
+<h3>I am currently available for hire</h3>
+<p>Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
+<p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </p>
   
 <p  align="right" width="400">
   <img src="code.gif" alt="Nwachan Theophile" width="400">
 </p>
+  
+ - 👯 I’m looking to collaborate on **Javascript projects**
                          
 
 </div>
