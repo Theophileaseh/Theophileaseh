@@ -1,5 +1,5 @@
 <div class="main">
- <div class="main1">
+ <div class="main1" align="left">
  ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2> I am, Nwachan Theophile</h2>
@@ -8,7 +8,7 @@
 <p>Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </div>
- <div class="main2">
+ <div class="main2" align="right">
   <img src="code.gif" alt="Nwachan Theophile">
  </div>
 </div>
