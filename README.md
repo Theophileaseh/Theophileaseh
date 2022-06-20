@@ -9,7 +9,7 @@
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </div>
  <div class="main2" align="right" width="400>
-  <img src="code.gif" alt="Nwachan Theophile">
+  <img src="code.gif" alt="Nwachan Theophile" width="100%">
  </div>
 </div>
 
