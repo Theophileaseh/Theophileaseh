@@ -8,9 +8,9 @@
 <p>Get to me on <a href="https://linkedin.com/in/nwachan-theophile-342274172/" target="blank"><img align="center" src="img/linkedin.png" alt="" height="50" width="50" /></a></p>
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </div>
- <div class="main2" align="right" width="400>
-  <img src="code.gif" alt="Nwachan Theophile" width="100%">
- </div>
+
+  <img src="code.gif" alt="Nwachan Theophile" align="right" width="400>
+
 </div>
 
 
