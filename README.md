@@ -1,6 +1,6 @@
 <div class="main">
 
- <p class="main1" align="left" width="400>
+ <p class="main1" align="left" width="50>
  ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 <h2> I am, Nwachan Theophile</h2>
