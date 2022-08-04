@@ -10,7 +10,7 @@
  </div>
   
 <div>
-  <img src="code.gif" alt="Nwachan Theophile" width="400">
+  <img src="code.gif" alt="Nwachan Theophile">
 </div>
                   
 
