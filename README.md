@@ -27,7 +27,7 @@ I like contributing to open source codes as there is a great asset for others to
 ![](/img/2.png/)
 [Click to see the Website](https://hitlbamenda.cm/)
 
-[Click to see the Website](https://bois237.com/)
+
 
 ![](/img/4.png/)
 [Click to see the Website](https://tcdesign.fashion/)
