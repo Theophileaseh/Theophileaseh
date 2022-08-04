@@ -1,5 +1,5 @@
-<p>
-  <div class="main1" align="left" width="50">
+
+  <div>
   ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 <h2> I am, Nwachan Theophile</h2>
@@ -10,7 +10,7 @@
 <p>My <a href="https://theophileaseh.github.io/Portfolio/">Portfolio</a>
  </div>
   
-<div align="right" width="400">
+<div>
   <img src="code.gif" alt="Nwachan Theophile" width="400">
 </div>
                   
