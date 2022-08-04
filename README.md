@@ -1,4 +1,4 @@
-<div class="main">
+<p>
   <div class="main1" align="left" width="50">
   ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
@@ -15,7 +15,7 @@
 </div>
                   
 
-</div>
+</p>
 
 
 I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
