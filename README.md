@@ -25,7 +25,7 @@ I like contributing to open source codes as there is a great asset for others to
 
 | [Visit School Website](https://hitlbamenda.cm/) |   [Visit Fashion Designer](https://tcdesign.fashion/) |
 | ---------- | ----------- |
- | ![HITL-Bamenda](/img/2.png/) | ![TC Design Classic](img/4.png) |
+ | ![HITL-Bamenda](/img/2.png/) | ![TC Design Classic](img/6.png) |
 
 <!--
 ![](/img/5.png/)
