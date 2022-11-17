@@ -23,7 +23,7 @@ I like contributing to open source codes as there is a great asset for others to
 
 ## Links To Some Of My Projects
 
-| [School Website](https://hitlbamenda.cm/) |   [Fashion Designer](https://tcdesign.fashion/) |
+| [Visit School Website](https://hitlbamenda.cm/) |   [Visit Fashion Designer](https://tcdesign.fashion/) |
 | ---------- | ----------- |
  | ![HITL-Bamenda](/img/2.png/) | ![TC Design Classic](img/4.png) |
 
