@@ -23,13 +23,9 @@ I like contributing to open source codes as there is a great asset for others to
 
 ## Links To Some Of My Projects
 
-![](/img/2.png/)
-[Click to see the Website](https://hitlbamenda.cm/)
-
-
-
-![](/img/4.png/)
-[Click to see the Website](https://tcdesign.fashion/)
+| [School Website](https://hitlbamenda.cm/) |   [Fashion Designer](https://tcdesign.fashion/) |
+| ---------- | ----------- |
+ | ![HITL-Bamenda](/img/2.png/) | ![TC Design Classic](img/4.png) |
 
 <!--
 ![](/img/5.png/)
