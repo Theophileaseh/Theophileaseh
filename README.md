@@ -53,6 +53,8 @@ I like contributing to open source codes as there is a great asset for others to
     <a href="https://php.net" target="_blank"> <img src="img/php.png" alt="PHP" width="50" height="50"/> </a>    
     <a href="https://mysql.com" target="_blank"> <img src="img/mysql.png" alt="MySQL" width="50" height="50"/> </a> 
     <a href="https://redux.js.org/" target="_blank"> <img src="img/redux.png" alt="Redux" width="50" height="50"/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="img/ruby.png" alt="Ruby" width="50" height="50"/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="img/ruby-on-rails.png" alt="Ruby on rails" width="50" height="50"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/js.png" alt="Javascript" width="50" height="50"/> </a>    
     <a href="https://webpack.js.org/" target="_blank"> <img src="img/webpack.png" alt="Webpack" width="50" height="50"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="img/git.png" alt="git" width="50" height="50"/> </a>
