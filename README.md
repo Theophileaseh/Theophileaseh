@@ -38,7 +38,7 @@ I like contributing to open source codes as there is a great asset for others to
  
 | Activities |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theophileaseh&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theophileaseh&show_icons=true&theme=outrun&layout=compact" alt="Theophile Aseh" width="410"/>|
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theophileaseh&show_icons=true&theme=outrun" alt="Nwachan Theophile" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theophileaseh&show_icons=true&theme=outrun&layout=compact" alt="Theophile Aseh" width="410"/>|
 </p>
 
 
