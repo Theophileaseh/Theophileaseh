@@ -68,11 +68,11 @@ I like contributing to open source codes as there is a great asset for others to
 <a href="https://www.facebook.com/theophileaseh/" target="blank"><img align="center" src="img/facebook.png" alt="" height="50" width="50" /></a>
 </p>
 
-<p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=theophileaseh&label=Profile%20views&color=0e75b6&style=flat"
+<!-- <p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=theophileaseh&label=Profile%20views&color=0e75b6&style=flat"
     alt="Nwachan Theophile" /> 
   </p>
 
-<br>
+<br> -->
 
 <!--
 **Theophileaseh/Theophileaseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
