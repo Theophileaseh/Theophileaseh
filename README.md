@@ -19,19 +19,13 @@
 
 I am a highly-skilled, motivated, and talented Full-stack web developer with a passion for developing outstanding software for great user experience and high customer satisfaction. I take much care in the things I develop because a customer is key.
 
-I like contributing to open source codes as there is a great asset for others to learn.
+I like contributing to open-source codes as there is a great asset for others to learn.
 
 ## Links To Some Of My Projects
 
-| [Visit School Website](https://hitlbamenda.cm/) |   [Visit Fashion Designer](https://tcdesign.fashion/) |
+| [Visit FlixFrenzy](https://flixfrenzy.netlify.app/) |   [Visit QR Code Robot](https://qr-code-robot.netlify.app) |
 | ---------- | ----------- |
- | ![HITL-Bamenda](/img/2.png/) | ![TC Design Classic](img/6.png) |
-
-<!--
-![](/img/5.png/)
-[Click to see the Website](https://jaems.art/)
-[Click to see the Website](https://christinductionglorychurch.com/)
--->
+ | ![FlixFrenzy](/img/2.png/) | ![QR Code Robot](img/budg) |
 
 
 <p align="center">&nbsp;
