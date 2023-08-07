@@ -25,7 +25,7 @@ I like contributing to open-source codes as there is a great asset for others to
 
 | [Visit FlixFrenzy](https://flixfrenzy.netlify.app/) |   [Visit QR Code Robot](https://qr-code-robot.netlify.app) |
 | ---------- | ----------- |
- | ![FlixFrenzy](/img/2.png/) | ![QR Code Robot](img/budg) |
+ | ![FlixFrenzy](/img/flixfrenzy.png/) | ![QR Code Robot](img/qr-code-robot.png) |
 
 
 <p align="center">&nbsp;
